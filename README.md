@@ -1,9 +1,9 @@
 <!--
 created: "23-10-26 09-36-59"
-updated: "23-10-26 10-44-52"
+updated: "23-10-26 10-53-15"
 timezone: "Europe/Moscow"
-version: "0.4.4"
-commit: "fix(profile): follow GitHub theme for banner selection"
+version: "0.4.5"
+commit: "docs(profile): refine project cards and expand working approach"
 -->
 
 <!-- shortcut: GitHub theme fragments select the image; migrate if GitHub removes fragment support. -->
@@ -24,35 +24,38 @@ commit: "fix(profile): follow GitHub theme for banner selection"
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ipastin/sborum-bot">Sborum ↗</a></h3>
 <p><strong>Will enough people show up?</strong></p>
-<p>Scheduled polls and quorum for one-time and recurring Telegram events.</p>
-<p><sub>Self-hosted · Cloudflare Workers</sub></p>
+<p>Scheduled polls for one-time and recurring events.<br>Track Telegram responses and check the quorum.</p>
+<p><sub>Self-hosted · Cloudflare Workers</sub><br><br></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ipastin/ideomy">Ideomy ↗</a></h3>
 <p><strong>Why did I decide that?</strong></p>
-<p>Notes, sources, projects, and decisions in an Obsidian Vault. Markdown stays the source of truth.</p>
-<p><sub>Local-first · Early development</sub></p>
+<p>Connect notes, sources, projects, and decisions.<br>Local-first in Obsidian. Markdown stays authoritative.</p>
+<p><sub>Local-first · Early development</sub><br><br></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ipastin/phisys">Phisys ↗</a></h3>
 <p><strong>How has my health changed?</strong></p>
-<p>A personal health intelligence system for connecting scattered records over time.</p>
-<p><sub>Specifications · Early backend · App planned</sub></p>
+<p>Connect scattered health records over time.<br>Personal health intelligence, currently in development.</p>
+<p><sub>Specifications · Early backend · App planned</sub><br><br></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ipastin/cuo">CUO ↗</a></h3>
 <p><strong>How should AI tackle this?</strong></p>
-<p>An orchestration kit for Codex with reusable Skills, agent presets, and validation tools.</p>
-<p><sub>Skills · Agent presets · Validators</sub></p>
+<p>Coordinate AI work and check the results.<br>Skills, agent presets, and validation tools for Codex.</p>
+<p><sub>Skills · Agent presets · Validators</sub><br><br></p>
 </td>
 </tr>
 </tbody>
 </table>
 
-<details>
-<summary>How I work</summary>
-<p>I connect product goals with clear information architecture, interaction design, and design systems. I use AI agents to implement and iterate, while I own the product decisions and verify the results.</p>
-</details>
+<h2>How I work</h2>
+
+<p><strong>Product vision.</strong> I connect the problem, the user's context, and the product goal before deciding what to build. I make assumptions, constraints, and trade-offs explicit so the direction can be discussed and reviewed.</p>
+
+<p><strong>UX/UI and design systems.</strong> I turn that direction into information architecture, user flows, interface states, and reusable components. I pay attention to edge cases and to keeping the experience coherent as the product grows.</p>
+
+<p><strong>Development with AI agents.</strong> I use AI agents to turn design decisions into working software. I define the scope, review the changes, and check the result against the intended behavior. Agents help with implementation and iteration; I remain responsible for product decisions, design quality, and verification.</p>
 
