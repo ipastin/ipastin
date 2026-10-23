@@ -1,9 +1,9 @@
 <!--
 created: "23-10-26 09-36-59"
-updated: "23-10-26 11-11-39"
+updated: "23-10-26 11-18-50"
 timezone: "Europe/Moscow"
-version: "0.4.6"
-commit: "fix(profile): fill project grid and remove zebra rows"
+version: "0.4.7"
+commit: "docs(profile): introduce personal project collection"
 -->
 
 <!-- shortcut: GitHub theme fragments select the image; migrate if GitHub removes fragment support. -->
@@ -17,6 +17,8 @@ commit: "fix(profile): fill project grid and remove zebra rows"
 <p><a href="https://pastin.design">Portfolio ↗</a> · <a href="mailto:igor@pastin.design">Email</a></p>
 
 <h2>What I'm building</h2>
+
+<p>These projects bring together product design and development with AI agents, each shaped around a concrete problem. They range from a self-hosted Telegram bot to early-stage tools for knowledge, health, and AI workflows.</p>
 
 <table width="100%">
 <tbody>
