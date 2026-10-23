@@ -1,16 +1,16 @@
 <!--
 created: "23-10-26 09-36-59"
-updated: "23-10-26 10-18-29"
+updated: "23-10-26 10-23-05"
 timezone: "Europe/Moscow"
-version: "0.4.1"
-commit: "docs(profile): publish spacious AI-agent banner"
+version: "0.4.2"
+commit: "docs(profile): align copy with product design and AI-agent development"
 -->
 
 <img src="profile-banner-v0.4.1.png" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200">
 
 <h3>I'm Igor, a Senior Product Designer.</h3>
 
-<p>I work with product teams across UX/UI, design systems, and frontend. I also build my own products with AI, taking ideas from design decisions to working software.</p>
+<p>I design user experiences with a product vision and an engineering approach. Alongside my work with product teams, I build my own products with AI agents.</p>
 
 <p><a href="https://pastin.design">Portfolio ↗</a> · <a href="mailto:igor@pastin.design">Email</a></p>
 
@@ -51,6 +51,6 @@ commit: "docs(profile): publish spacious AI-agent banner"
 
 <details>
 <summary>How I work</summary>
-<p>Product thinking, clear information, considered interaction details, and explicit trade-offs. AI helps me implement and iterate; design decisions and verification remain part of the work.</p>
+<p>I connect product goals with clear information architecture, interaction design, and design systems. I use AI agents to implement and iterate, while I own the product decisions and verify the results.</p>
 </details>
 
