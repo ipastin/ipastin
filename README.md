@@ -1,12 +1,12 @@
 <!--
 created: "23-10-26 09-36-59"
-updated: "23-10-26 09-36-59"
+updated: "23-10-26 10-18-29"
 timezone: "Europe/Moscow"
-version: "0.2.0"
-commit: "docs(profile): combine editorial banner and project showcase"
+version: "0.4.1"
+commit: "docs(profile): publish spacious AI-agent banner"
 -->
 
-<img src="profile-editorial-banner.svg" alt="Product thinking. Working software. A path from a design decision to an interface to a product." width="1200">
+<img src="profile-banner-v0.4.1.png" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200">
 
 <h3>I'm Igor, a Senior Product Designer.</h3>
 
