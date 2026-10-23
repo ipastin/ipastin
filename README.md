@@ -1,26 +1,56 @@
 <!--
-created: "22-10-26 18-11-52"
-updated: "22-10-26 18-21-56"
+created: "23-10-26 09-36-59"
+updated: "23-10-26 09-36-59"
 timezone: "Europe/Moscow"
-version: "0.1.1"
-commit: "docs(profile): add confirmed public contact"
+version: "0.2.0"
+commit: "docs(profile): combine editorial banner and project showcase"
 -->
 
-### Igor Pastin
+<img src="profile-editorial-banner.svg" alt="Product thinking. Working software. A path from a design decision to an interface to a product." width="1200">
 
-**Senior Product Designer working across UX/UI, design systems, and frontend.**
+<h3>I'm Igor, a Senior Product Designer.</h3>
 
-I work with product teams and build my own products, using AI to turn design decisions into working software. My projects explore personal knowledge, health information, community coordination, and tools for working with AI.
+<p>I work with product teams across UX/UI, design systems, and frontend. I also build my own products with AI, taking ideas from design decisions to working software.</p>
 
-[Portfolio ↗](https://pastin.design) · [Email](mailto:igor@pastin.design)
+<p><a href="https://pastin.design">Portfolio ↗</a> · <a href="mailto:igor@pastin.design">Email</a></p>
 
-### Selected projects
+<h2>What I'm building</h2>
 
-- **[Sborum](https://github.com/ipastin/sborum-bot)** — A Telegram bot for one-time and recurring events. Scheduled polls help groups see whether enough people are joining. Self-hosted on Cloudflare Workers.
-- **[Ideomy](https://github.com/ipastin/ideomy)** — A local-first personal knowledge system for Obsidian, connecting notes, sources, projects, and decisions. Markdown stays the source of truth. In early development.
-- **[Phisys](https://github.com/ipastin/phisys)** — A personal health intelligence system intended to make scattered health records easier to understand over time. Currently specifications and early backend packages; the app is still in development.
-- **[CUO](https://github.com/ipastin/cuo)** — An orchestration kit for Codex: reusable Skills, agent presets, and validation tools for coordinating work and checking results.
+<table width="100%">
+<tbody>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ipastin/sborum-bot">Sborum ↗</a></h3>
+<p><strong>Will enough people show up?</strong></p>
+<p>Scheduled polls and quorum for one-time and recurring Telegram events.</p>
+<p><sub>Self-hosted · Cloudflare Workers</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ipastin/ideomy">Ideomy ↗</a></h3>
+<p><strong>Why did I decide that?</strong></p>
+<p>Notes, sources, projects, and decisions in an Obsidian Vault. Markdown stays the source of truth.</p>
+<p><sub>Local-first · Early development</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ipastin/phisys">Phisys ↗</a></h3>
+<p><strong>How has my health changed?</strong></p>
+<p>A personal health intelligence system for connecting scattered records over time.</p>
+<p><sub>Specifications · Early backend · App planned</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/ipastin/cuo">CUO ↗</a></h3>
+<p><strong>How should AI tackle this?</strong></p>
+<p>An orchestration kit for Codex with reusable Skills, agent presets, and validation tools.</p>
+<p><sub>Skills · Agent presets · Validators</sub></p>
+</td>
+</tr>
+</tbody>
+</table>
 
-### How I work
+<details>
+<summary>How I work</summary>
+<p>Product thinking, clear information, considered interaction details, and explicit trade-offs. AI helps me implement and iterate; design decisions and verification remain part of the work.</p>
+</details>
 
-I bring product thinking and an engineering approach to UX: clear information, considered interaction details, and explicit trade-offs. I use AI to implement and iterate on my own projects, with design decisions and verification remaining part of the work.
