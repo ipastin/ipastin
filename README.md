@@ -21,27 +21,27 @@ commit: "docs(profile): refine project cards and expand working approach"
 <table width="100%">
 <tbody>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 <h3><a href="https://github.com/ipastin/sborum-bot">Sborum ↗</a></h3>
 <p><strong>Will enough people show up?</strong></p>
 <p>Scheduled polls for one-time and recurring events.<br>Track Telegram responses and check the quorum.</p>
 <p><sub>Self-hosted · Cloudflare Workers</sub><br><br></p>
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 <h3><a href="https://github.com/ipastin/ideomy">Ideomy ↗</a></h3>
 <p><strong>Why did I decide that?</strong></p>
-<p>Connect notes, sources, projects, and decisions.<br>Local-first in Obsidian. Markdown stays authoritative.</p>
+<p>Connect notes, sources, projects, and decisions.<br>Markdown in Obsidian stays the source of truth.</p>
 <p><sub>Local-first · Early development</sub><br><br></p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 <h3><a href="https://github.com/ipastin/phisys">Phisys ↗</a></h3>
 <p><strong>How has my health changed?</strong></p>
 <p>Connect scattered health records over time.<br>Health intelligence in early development.</p>
 <p><sub>Specifications · Early backend · App planned</sub><br><br></p>
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 <h3><a href="https://github.com/ipastin/cuo">CUO ↗</a></h3>
 <p><strong>How should AI tackle this?</strong></p>
 <p>Coordinate AI work and check the results.<br>Skills, agent presets, and validation tools for Codex.</p>
