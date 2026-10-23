@@ -2,14 +2,12 @@
 created: "23-10-26 09-36-59"
 updated: "23-10-26 10-37-51"
 timezone: "Europe/Moscow"
-version: "0.4.3"
-commit: "docs(profile): add theme-aware dark banner"
+version: "0.4.4"
+commit: "fix(profile): follow GitHub theme for banner selection"
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-banner-dark-v0.4.3.png">
-  <img src="profile-banner-v0.4.1.png" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200">
-</picture>
+<a href="profile-banner-v0.4.1.png#gh-light-mode-only"><img src="profile-banner-v0.4.1.png#gh-light-mode-only" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200"></a>
+<a href="profile-banner-dark-v0.4.3.png#gh-dark-mode-only"><img src="profile-banner-dark-v0.4.3.png#gh-dark-mode-only" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200"></a>
 
 <h3>I'm Igor, a Senior Product Designer.</h3>
 
