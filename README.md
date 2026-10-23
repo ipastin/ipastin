@@ -1,16 +1,16 @@
 <!--
 created: "23-10-26 09-36-59"
-updated: "23-10-26 11-18-50"
+updated: "23-10-26 11-38-16"
 timezone: "Europe/Moscow"
-version: "0.4.7"
-commit: "docs(profile): introduce personal project collection"
+version: "0.4.8"
+commit: "feat(profile): widen banner typography and promote introduction heading"
 -->
 
 <!-- shortcut: GitHub theme fragments select the image; migrate if GitHub removes fragment support. -->
-<a href="profile-banner-v0.4.1.png#gh-light-mode-only"><img src="profile-banner-v0.4.1.png#gh-light-mode-only" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200"></a>
-<a href="profile-banner-dark-v0.4.3.png#gh-dark-mode-only"><img src="profile-banner-dark-v0.4.3.png#gh-dark-mode-only" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200"></a>
+<a href="profile-banner-light-v0.4.8.png#gh-light-mode-only"><img src="profile-banner-light-v0.4.8.png#gh-light-mode-only" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200"></a>
+<a href="profile-banner-dark-v0.4.8.png#gh-dark-mode-only"><img src="profile-banner-dark-v0.4.8.png#gh-dark-mode-only" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200"></a>
 
-<h3>I'm Igor, a Senior Product Designer.</h3>
+<h2>I'm Igor, a Senior Product Designer.</h2>
 
 <p>I design user experiences with a product vision and an engineering approach. Alongside my work with product teams, I build my own products with AI agents.</p>
 
@@ -62,4 +62,5 @@ commit: "docs(profile): introduce personal project collection"
 <p><strong>UX/UI and design systems.</strong> I turn that direction into information architecture, user flows, interface states, and reusable components. I pay attention to edge cases and to keeping the experience coherent as the product grows.</p>
 
 <p><strong>Development with AI agents.</strong> I use AI agents to turn design decisions into working software. I define the scope, review the changes, and check the result against the intended behavior. Agents help with implementation and iteration; I remain responsible for product decisions, design quality, and verification.</p>
+
 
