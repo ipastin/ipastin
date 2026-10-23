@@ -38,7 +38,7 @@ commit: "docs(profile): refine project cards and expand working approach"
 <td width="50%" valign="top">
 <h3><a href="https://github.com/ipastin/phisys">Phisys ↗</a></h3>
 <p><strong>How has my health changed?</strong></p>
-<p>Connect scattered health records over time.<br>Personal health intelligence, currently in development.</p>
+<p>Connect scattered health records over time.<br>Health intelligence in early development.</p>
 <p><sub>Specifications · Early backend · App planned</sub><br><br></p>
 </td>
 <td width="50%" valign="top">
