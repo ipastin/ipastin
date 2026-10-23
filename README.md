@@ -1,12 +1,15 @@
 <!--
 created: "23-10-26 09-36-59"
-updated: "23-10-26 10-23-05"
+updated: "23-10-26 10-37-51"
 timezone: "Europe/Moscow"
-version: "0.4.2"
-commit: "docs(profile): align copy with product design and AI-agent development"
+version: "0.4.3"
+commit: "docs(profile): add theme-aware dark banner"
 -->
 
-<img src="profile-banner-v0.4.1.png" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-banner-dark-v0.4.3.png">
+  <img src="profile-banner-v0.4.1.png" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200">
+</picture>
 
 <h3>I'm Igor, a Senior Product Designer.</h3>
 
