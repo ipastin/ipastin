@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Product thinking. Working software.</title>
+  <desc id="desc">Igor Pastin, Product Design and independent builds. A diagram links a design decision, an interface, and a working product.</desc>
+  <rect width="1200" height="380" rx="16" fill="#181C19"/>
+  <g fill="none" stroke="#303A33" stroke-width="1">
+    <path d="M760 0v380M800 0v380M840 0v380M880 0v380M920 0v380M960 0v380M1000 0v380M1040 0v380M1080 0v380M1120 0v380M1160 0v380"/>
+    <path d="M760 20h440M760 60h440M760 100h440M760 140h440M760 180h440M760 220h440M760 260h440M760 300h440M760 340h440"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="52" y="55" font-size="18" font-weight="700" letter-spacing="2" fill="#D0F081">IP / PRODUCT DESIGN &amp; INDEPENDENT BUILDS</text>
+    <text x="48" y="160" font-size="77" font-weight="700" letter-spacing="-3" fill="#F5F5EE">Product thinking.</text>
+    <text x="48" y="249" font-size="77" font-weight="700" letter-spacing="-3" fill="#D0F081">Working software.</text>
+    <text x="52" y="333" font-size="18" fill="#C0CAC2">IGOR PASTIN</text>
+    <text x="386" y="333" font-size="18" fill="#C0CAC2">UX/UI · SYSTEMS · FRONTEND</text>
+  </g>
+  <path d="M804 112h42v84h48M986 196h47v84h57" stroke="#D0F081" stroke-width="3" fill="none"/>
+  <rect x="794" y="89" width="140" height="48" rx="8" fill="#D0F081"/>
+  <text x="814" y="119" font-family="monospace" font-size="18" fill="#181C19">decision</text>
+  <rect x="874" y="168" width="168" height="64" rx="8" stroke="#849F6C" stroke-width="2" fill="#252E27"/>
+  <path d="M890 183h136" stroke="#849F6C"/><circle cx="893" cy="177" r="2" fill="#D0F081"/>
+  <text x="891" y="215" font-family="monospace" font-size="18" fill="#F5F5EE">interface</text>
+  <rect x="990" y="253" width="156" height="56" rx="8" fill="#D0F081"/>
+  <text x="1011" y="287" font-family="monospace" font-size="18" fill="#181C19">product ↗</text>
+</svg>
