@@ -1,9 +1,9 @@
 <!--
 created: "23-10-26 09-36-59"
-updated: "23-10-26 10-59-25"
+updated: "23-10-26 11-11-39"
 timezone: "Europe/Moscow"
-version: "0.4.5"
-commit: "docs(profile): refine project cards and expand working approach"
+version: "0.4.6"
+commit: "fix(profile): fill project grid and remove zebra rows"
 -->
 
 <!-- shortcut: GitHub theme fragments select the image; migrate if GitHub removes fragment support. -->
@@ -24,27 +24,29 @@ commit: "docs(profile): refine project cards and expand working approach"
 <td valign="top">
 <h3><a href="https://github.com/ipastin/sborum-bot">Sborum ↗</a></h3>
 <p><strong>Will enough people show up?</strong></p>
-<p>Scheduled polls for one-time and recurring events.<br>Track Telegram responses and check the quorum.</p>
+<p>Scheduled polls for one-time and recurring events. Track Telegram responses and check the quorum.</p>
 <p><sub>Self-hosted · Cloudflare Workers</sub><br><br></p>
 </td>
 <td valign="top">
 <h3><a href="https://github.com/ipastin/ideomy">Ideomy ↗</a></h3>
 <p><strong>Why did I decide that?</strong></p>
-<p>Connect notes, sources, projects, and decisions.<br>Markdown in Obsidian stays the source of truth.</p>
+<p>Connect notes, sources, projects, and decisions. Markdown in Obsidian stays the source of truth.</p>
 <p><sub>Local-first · Early development</sub><br><br></p>
 </td>
 </tr>
+</tbody>
+<tbody>
 <tr>
 <td valign="top">
 <h3><a href="https://github.com/ipastin/phisys">Phisys ↗</a></h3>
 <p><strong>How has my health changed?</strong></p>
-<p>Connect scattered health records over time.<br>Health intelligence in early development.</p>
+<p>Connect scattered health records over time. Health intelligence in early development.</p>
 <p><sub>Specifications · Early backend · App planned</sub><br><br></p>
 </td>
 <td valign="top">
 <h3><a href="https://github.com/ipastin/cuo">CUO ↗</a></h3>
 <p><strong>How should AI tackle this?</strong></p>
-<p>Coordinate AI work and check the results.<br>Skills, agent presets, and validation tools for Codex.</p>
+<p>Coordinate AI work and check the results. Skills, agent presets, and validation tools for Codex.</p>
 <p><sub>Skills · Agent presets · Validators</sub><br><br></p>
 </td>
 </tr>
