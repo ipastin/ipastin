@@ -1,14 +1,14 @@
 <!--
 created: "23-10-26 09-36-59"
-updated: "23-10-26 12-32-31"
+updated: "23-10-26 13-04-47"
 timezone: "Europe/Moscow"
-version: "0.4.11"
-commit: "fix(profile): harmonize agent card contrast"
+version: "0.4.12"
+commit: "fix(profile): recolor cursors and remove card separators"
 -->
 
 <!-- shortcut: GitHub theme fragments select the image; migrate if GitHub removes fragment support. -->
-<a href="profile-banner-light-v0.4.11.png#gh-light-mode-only"><img src="profile-banner-light-v0.4.11.png#gh-light-mode-only" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200"></a>
-<a href="profile-banner-dark-v0.4.11.png#gh-dark-mode-only"><img src="profile-banner-dark-v0.4.11.png#gh-dark-mode-only" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200"></a>
+<a href="profile-banner-light-v0.4.12.png#gh-light-mode-only"><img src="profile-banner-light-v0.4.12.png#gh-light-mode-only" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200"></a>
+<a href="profile-banner-dark-v0.4.12.png#gh-dark-mode-only"><img src="profile-banner-dark-v0.4.12.png#gh-dark-mode-only" alt="Product-minded design. Agent-powered development. A product interface connected to three collaborating AI agents." width="1200"></a>
 
 <h2>I'm Igor, a Senior Product Designer.</h2>
 
@@ -62,6 +62,7 @@ commit: "fix(profile): harmonize agent card contrast"
 <p><strong>UX/UI and design systems.</strong> I turn that direction into information architecture, user flows, interface states, and reusable components. I pay attention to edge cases and to keeping the experience coherent as the product grows.</p>
 
 <p><strong>Development with AI agents.</strong> I use AI agents to turn design decisions into working software. I define the scope, review the changes, and check the result against the intended behavior. Agents help with implementation and iteration; I remain responsible for product decisions, design quality, and verification.</p>
+
 
 
 
